@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act for redress of the complaints and grievances of the people, against masters, collectors, officers and souldiers, 5. of July 1649.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74124</idno>
+            <idno type="STC">Thomason 669.f.14[53]</idno>
+            <idno type="STC">ESTC R211233</idno>
+            <idno type="EEBO-CITATION">99869963</idno>
+            <idno type="PROQUEST">99869963</idno>
+            <idno type="VID">163041</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163041)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act for redress of the complaints and grievances of the people, against masters, collectors, officers and souldiers, 5. of July 1649.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Arch. Johnstoun.</note>
+                  <note>Imprint date conjectural; bound with other items dated 1649.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:163041:1" rendition="simple:additions"/>
+            <head>ACT for Redreſs of the Complaints and grievances of the People, againſt Maſters, Collectors, Officers and Souldiers, <date>5. of <hi>July</hi> 1649.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Eſtates of Parliament taking into their ſerious conſideration the manifold grievances and complaints within the Kingdom againſt Ma<g ref="char:EOLhyphen"/>ſters, for oppreſsing their Tenants in outreiks of horſe and foot, payment of the monethly Maintenance, and in Quarterings, as alſo againſt Officers and Souldiers, and Collectors of moneys for their diſorderly carriage and unjuſt dealing. For remedy and redreſſe herein, they do Statute and Ordain,
+<list>
+                  <item>I. That the ſeveral Presbyteries ſend in to the Committee of Eſtates, a liſt of nine or ten underſtanding and conſcientious men, that upon conſideration thereof, and ſuch other Information as ſhall be given to the Committee of Eſtates concerning theſe or any other perſons, they may make choyce of five or ſix, to employ in that truſt, and any three of them to have power to do and put in execution all things within the bounds of each Presbytery, which are referred to them by this Parliament, and that all grievances and complaints for wrongs done ſince the firſt of <hi>October</hi> laſt, or which ſhall be committed in time comming, being ſuch as are by this Act referred to them by the Parliament, ſhal be preſented to the ſaid perſons ſo nominated and choſen, and that the perſon firſt nominated in the Commiſſion, ſhall conveen the reſt at their firſt meeting, and take their oaths for the faithfull diſcharge of their duty, and then the next in Commiſſion ſhall take his Oath; and that thereafter they meet at ſuch times and places as they ſhall think fit, That they ſhall have power to conveen all perſons intereſſed within the bounds of the Presbytery before them, to take the Oathes of parties, and to examine witneſs upon Oath, when they ſhall ſee it needfull, and that all Officers and Souldiers ſhall be aſſiſtant to them upon their direction for executing the power committed to them.</item>
+                  <item>II. That in all Levies of horſe, the Tenant ſhall only furniſh a ſufficient man, and ſhall be free of all charge and expence whatſomever, unleſſe they be rentallers or o<g ref="char:EOLhyphen"/>thers, who have lands ſet unto them under the known worth and value, in which caſe, the Commiſſioners of each Presbytery to be choſen as aforeſaid, ſhall have power to determin what ſhall be the proportion of the rentaller or others aforeſaid, according to the eaſe they have of the land under the known value; Conſideration being had what the tenant gave to the maſter at his entrie to the lands together with the yearly dutie and ſervice; And that no rentaller, nor other aforeſaid, ſhall be lyable to the payment of any part of the ſaid Levy, but upon decreet of the Commiſſioners aforeſaid, &amp; that the heritors in the interim put forth the Levie; It being always underſtood, that where rentallers are already valued, diſtinct from the heritors by the Comiſſioneres apointed for the valuation of the ſhire that they ſhal pay conform to their valuation</item>
+                  <item>III. That in the Levies of foot the maſter ſhall find armes, and pay the advance or loane money, and that the tenant ſhal onlie find a ſufficient man, and ſhall give unto him that ſhall goe forth the ſum appointed by act of Parliament to be given by tenants, unleſs they be rentallers or others before mentioned, in which caſe, the ſaid Commiſſioners ſhal determine as aforeſaid what ſhall be their proportion.</item>
+                  <item>IV. That no maſter ſhall for benefit, ſpleen or private revenge, put forth any tenant of ſenyant in Levies, but that where there is any ſuch complaint, the Commiſſioners aforeſaid ſhall Judge of the fitneſs of the perſon.</item>
+                  <item>V That the Monethlie maintenance ſhall onlie be payed by the maſter, and the tenant to be free, unleſs they be rentallers or others as aforeſaid, in which caſe, the Comiſſioners are to determine their proportions as is before expreſſed.</item>
+                  <item>VI. That all quarterings, whether local or tranſeunt ſhalbe allowed in payment of the Monthly maintenance in manner following, viz. that the maſter, or ſuch as have power from the maſter to doe his affairs, ſhall deliver to the Collector a certificate, ſubſcribed by two of the Comiſſioners aforeſaid, that he hath allowed to his tenants the ſaid quarterings (which are alſo to be inſtructed according to the Act of Parliament) in their maill or yearly rent and duty, and given them diſcharge for the ſame, before he get allowance of the quarterings in payment of the monthly maintenance, &amp; that the Collector deliver the ſaid certificate to the General Comiſſary; Or in caſe the maſter refuſe to give the ſaid certificate to the Collector, that then the collector bring two of the Comiſſioners certificate of the maſter his refuſal, and if the Collector ſhall fail herein, that then he make accompt to the General Commiſſarie, for the whole monthlie maintenance, without any deduction for quarterings, and that the Comiſſioners take care that the maſteres ſo refuſſing doe allow the ſaid quarterings to the tenant in their maill and duties.</item>
+                  <item>VII And becauſe quarterings upon particular perſons, may exceed their proportion of the monethly maintenance, It is therefore ſtatute and ordained, that the Collector of every ſhire ſhal make payment to all ſuch perſons as ſhal be ſo overburdened with quarterings out of the monethly maintenance of the ſhire, at the direction of the com<g ref="char:EOLhyphen"/>mittee of war; And if the whole monthlie maintenance of any ſhire ſhalbe exhauſted, that then the general Commiſſarie ſhal make payment to them for the ſaid quarterings out of the monethly maintenance of other ſhires whoſe maintenance is not exhauſted by quarterings. And in caſe any maſter ſhall thrall his tenants, and force them to lay out any monies in levyes otherwiſe then according to the directions of the Parliament, or being deſired, ſhall not allow them the maintenance when they have been neceſſitated to pay the ſame for their maſters, or quarterings, not exceeding the Maintenance, The Eſtates of Parliament do Declare, that upon probation thereof before the ſaid Comiſsioners (the maſter for ſo doeing ſhall beſide reſtitution to the tenant) pay as much to the Comiſſioners for the uſe of the publick.</item>
+                  <item>VIII. That where tenants have not concurred in <hi>Iames Grahams</hi> rebellion, or been acceſſorie to the late unlawful Engagement againſt <hi>England,</hi> or the late Rebellion in the north, but have ſuffered therein, effectual courſe be taken for their eaſe and relief, that it be not in their maſters power to oppreſſe and deſtroy them; And that the loſ<g ref="char:EOLhyphen"/>ſes of all ſuch tenants as have ſuffered for their affection (there maſters being guilty of any of the Crimes aforeſaid) be cognoſced and tryed before the ſaid Comiſſioners, and what allowance and deduction ſhall be decerned by them, to be retained from their aforeſaid maſters (guilty as ſaid is) ſhall be a ſufficient exoneration and diſcarge to them of the mails and duties <hi>pro tanto,</hi> and is to be ſo allowed by all and whatſoever Judges before whom the ſaid duties are to be purſued. And that the maſter be not permitted to purſue them for theſe duties before their own Courts, and if the maſter ſhal do otherwiſe, the tenant to have repetition <hi>pro tanto,</hi> provided, that nothing herein contained, ſhall extend to infringe any capitulation approven by Parliament.</item>
+                  <item>IX. That all Collectors of monies within ſhyres have teſtificats of their honeſtie and fidelitie from the Presbyterie, and ſubcollectors from the ſeſsions where they live.</item>
+                  <item>X That no Collectors ſhall quarter ſouldiers upon any for difficencie in payment of publick dues, unleſs there be intimation given ſix dayes before to the Preſident, or in his abſence, to any two of the Committee of war of the ſhire &amp; to the partie deficient; And that no officer ſhal quarter ſouldiers upon any for their deficiencie in pay<g ref="char:EOLhyphen"/>ment of publick dues, unleſs they have ane warrant for the ſame, under the Collectors hand, or have order from the Committee of Eſtates or General Commiſſarie: And if any collector or officer doe otherwayes, that he ſhall be caſhiered and removed.</item>
+                  <item>XI That if any Collector ſhall exact more from any maſter or tenant, then the juſt proportion, or ſhall cauſe them make twice payment of the ſame ſum, that he ſhall pay the double thereof to the perſons whom he hath ſo wronged, and not onlie be removed from his office, but ſhalbe declared incapable of any truſt hereafter; likeas if any Collector ſhal refuſe to allow quarterings from the firſt of this moneth, being rightlie inſtructed, and within the monthlie maintenance he ſhal be puniſhed in the ſame manner, and this is without prejudice of the Act of Parliament for relief of preceding quarterings.</item>
+                  <item>XII That if any officer or ſouldier ſhall exact money by paction or otherwayes from any maſter or tenant to Burgh or land beſide their pay, viz. in time coming twelve pence for the trooper, and ſix pence for the foot ſouldier, or ſhal plunder any goods, that he ſhall repay the double unto them, forfeit all his arrears to the publick, be caſhiered with diſgrace, and declared incapable of any truſt hereafter, and ſhall be further puniſhed according to the Articles of war.</item>
+                  <item>XIII That in caſe any officer or ſouldier, ſhall force maſter or tenant to Burgh or land, to give him a diſcharge when he hath payed no money, or leſs, then his quarter<g ref="char:EOLhyphen"/>ings extend to, or ſhall offer any violence againſt Maſter or tenant, by beating them or otherwayes, the ſame Punniſhment ſhall be inflicted on him.</item>
+                  <item>XIIII. That if any officer or Souldier ſhall in the place of the country where they quarter, wilfullie thruſt his horſe into cornes, or meddews which uſe to be mown yearlie, or where there is young planting, that they ſhall forfeit a monethes meanes: And if any officer or ſouldier ſhall at his own hand preſume to take any mans horſe for riding or any other uſe, the officer or ſouldier ſo doing, ſhall pay the price of the horſe to the ower, and alſo forfeit ane moneths meanes.</item>
+                  <item>XV. That if any troop, or Companie, or part thereof ſhall quarter in any place, and their removal, ſhall neither pay compleatlie for their quarters, nor leave a ticker (which they are to do without demanding any money for the ſame) or ſhall leave a ticket for a ſhorter time then they did quarter, that there ſhall be detained of the officeres pay, who had the charge of that troop or company upon the place, the double of what ſhall be found due for the quarter, and in caſe the officers pay be not ſufficient to defray what ſhalbe ſo reſtand, that the remainder thereof ſhall be defalked out of the ſouldiers pay, and given to the party on whom they did quarter.</item>
+                  <item>XVI. That no troope nor Company ſhall in their tranſcient quarters ſtay above one night in a place, and that the horſe ſhall march at leaſt fifteen miles, and the foot ten miles, except upon the Lords day or otherwayes, that the double of every nights quarter ſhalbe allowed out of their pay to theſe upon whom they quarter, unleſs there ſhall be an evident neceſsitie or order from a Generall Officer.</item>
+                  <item>XVII That to prevent the abuſe of officers and ſouldiers in demanding extraordinary fare, their pay be delivered to them, at the end of every fourteen dayes (or ſooner if they remove) by the ſhire, or collector of the ſhyre where they are quartered, and that they ſhall pay readie money for whatſoever they take for themſelves, their horſe, and the ſervants of Commanders, at the ordinarie rates of theſe places where they are quartered, without extortion, and if any officer or ſouldier, receiving their pay as afore<g ref="char:EOLhyphen"/>ſaid ſhall do otherwayes, that they ſhall forfeit a moneths means for the firſt fault, and if after complaynt made, they ſhall continue ſo to do, that they ſhall be caſheered.</item>
+                  <item>XVIII That all perſons who have furniſhed quarter to any troop, or Company, or part thereof, without payment either upon or without billet, that they inſtruct the ſame before the Committees of the reſpective ſhires where they dwel, by the ſaid billets, &amp; where the ſouldier hath not left billets, to inſtruct the ſame, according to the acts of Parliament for allowing of quarters by two of the Committe of war, each moneths quartering before the tenth of the ſubſequent moneth, to the end, that each Company troop or regiment may be trulie charged with what they have received, and ſo much of their pay diſcompted to them, and accordingly allowed in the monethly maintenance.</item>
+                  <item>XIX That no quarter be allowed to women or pedies attending upon troopes or compaines, and that all officers be carefull to ſee this dulie obſerved, and in caſe they ſhall fail herein, that they ſhall forfeit a monethes meanes.</item>
+                  <item>XX That the Commiſsioners aforeſaid have power to hear &amp; determine all queſtions &amp; differences that have ariſen betwixt maſters &amp; tenants ſince the firſt of <hi>October,</hi> or ſhall ariſe in time comming concerning the out-reikes of horſe and foot, the payment of the maintenance, and touching quarterings according to the directions of the Parliament before expreſſed.</item>
+                  <item>XXI That the ſaid Commiſsioners doe likeways certifie to the Committee of Eſtates, the names of all ſuch maſters as have oppreſſed their tenants in any time by-paſt in the out-reiks of horſe and foot, payment of the maintenance, or in quarterings, or have any ways made benefiet to themſelves therein contrarie to former Acts of Parlia<g ref="char:EOLhyphen"/>ment, or who ſhall hereafter wrong their tenants contrary to the preſent directions of Parliament, and ſhall ſend therewith the proofs of the ſaid wrongs ſo committed to the end the ſaids perſons may be fined and censured as the Committee of Eſtates ſhall find there faults to deſerve.</item>
+                  <item>XXII That when any complaint ſhall be made to the Commiſsioners aforeſaid againſt collectors for their tranſgreſsing the orders and directions of the Parlia<g ref="char:EOLhyphen"/>ment, that the Commiſsioners ſhall call the partyes before-them, and after exact tryall, repreſent the whole matter to the Committee of Eſtates, and ſend the depoſitions and proofs therewith, that the Committee may take ſpeedie courſe for redreſs of all juſt grievances.</item>
+                  <item>XXIII That when any complaint ſhall be made to them againſt any officer or ſouldier for tranſgreſsing the orders and directions of the Parliament, if after tryall of he matter, it ſhall appear to them to be a juſt grievance, that then they repreſent the ſame to the chiefe officer that is upon the place, and deſire reparation, and if there be no officer on the place above him againſt whom the Complaint is made, that then they deſire himſelf to make reparation, and if in any of the caſes aforeſaid reparation and ſa<g ref="char:EOLhyphen"/>tisfaction ſhal not be ſpeedily given, that then the Commiſsioners ce<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tifie the whole matter to the Committee of Eſtates, &amp; ſend the depoſitions and prooffs of the particular crimes and faults, that the parties wronged may be repaired, and the parties offending may receive condigne puniſhment, and that the officer denying or delaying to repair the wrong, ſhall for the firſt fault forfeit a moneths means, and ſhall be caſheered for the ſecond.</item>
+                  <item>XXIIII That theſe preſents be Printed, and ſent to the reſpective Presbyteries within the Kingdom ſpeedily, that they may ſend in a liſt of perſons to the Committee of Eſtates as is before expreſſed, and that theſe preſents be likeways read in all Pariſh Churches.</item>
+               </list>
+            </p>
+            <closer>
+               <signed>Arch. Johnſtoun.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
